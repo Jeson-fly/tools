@@ -21,3 +21,8 @@
    ```shell
     grep -rn project_id ga.bi.*
    ```
+6. 查看所有进程,过滤某些进程
+   ```shell
+   ps -aux | grep redis
+   ```
+   
