@@ -87,7 +87,12 @@
 ![](./images/redis_slave2.png)
 ***
 
+<<<<<<< HEAD
 #### 哨兵/哨岗（sentinel）
+=======
+1. 主从复制
+   - psync、sync
+>>>>>>> 8a31b0fecf94af87d5308e0147418685281865a4
 
 ***
 
